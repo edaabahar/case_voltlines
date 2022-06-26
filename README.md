@@ -7,7 +7,7 @@ Run these commands to start the api:
 - For Windows:
 
 ```git
-git clone git@github.com:edaabahar/case_voltlines.git
+git clone https://github.com/edaabahar/case_voltlines.git
 cd case_voltlines
 py -m venv env
 cd env
@@ -20,7 +20,7 @@ python manage.py runserver
 
 - For Linux:
 ```git
-git clone git@github.com:edaabahar/case_voltlines.git
+git clone https://github.com/edaabahar/case_voltlines.git
 cd case_voltlines
 python3 -m venv env
 source env/bin/activate
